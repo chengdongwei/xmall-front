@@ -13,25 +13,25 @@
         <ul class="c0">
           <h3 class="c1">服务支持</h3>
           <ul>
-            <li class="c2"><a class="c3" target="_blank" href="https://github.com/Exrick">官方开源</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="https://github.com/Exrick/xmall-front">项目前端</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="https://github.com/Exrick/xmall">项目后端</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">官方开源</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">项目前端</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">项目后端</a></li>
           </ul>
         </ul>
         <ul class="c0">
           <h3 class="c1">自助服务</h3>
           <ul>
-            <li class="c2"><a class="c3" target="_blank" href="http://blog.exrick.cn">个人博客</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="http://blog.exrick.cn/intro/">个人简介</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="https://www.bilibili.com/video/av15860053/">个人视频</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">个人博客</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">个人简介</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">个人视频</a></li>
           </ul>
         </ul>
         <ul class="c0">
           <h3 class="c1">其他项目</h3>
           <ul>
-            <li class="c2"><a class="c3" target="_blank" href="http://xpay.exrick.cn">XPay支付系统</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="http://shouji.baidu.com/software/11783429.html">数据共享</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="https://github.com/Exrick">待开发...</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">XPay支付系统</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">数据共享</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">待开发...</a></li>
           </ul>
         </ul>
         <ul class="c0">
@@ -45,14 +45,14 @@
         <ul class="c0">
           <h3 class="c1">关注我吧</h3>
           <ul>
-            <li class="c2"><a class="c3" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1012139570&site=qq&menu=yes">腾讯 QQ</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="http://weibo.com/2255094222/profile">新浪微博</a></li>
-            <li class="c2"><a class="c3" target="_blank" href="mailto:1012139570@qq.com">官方邮箱</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=506488351&site=qq&menu=yes">腾讯 QQ</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="#">新浪微博</a></li>
+            <li class="c2"><a class="c3" target="_blank" href="mailto:506488351@qq.com">官方邮箱</a></li>
           </ul>
         </ul>
 
         <ul class="c4">
-          <li class="tel"><a class="c5" href="http://wpa.qq.com/msgrd?v=3&uin=1012139570&site=qq&menu=yes" target="_blank">1012139570</a></li>
+          <li class="tel"><a class="c5" href="http://wpa.qq.com/msgrd?v=3&uin=506488351&site=qq&menu=yes" target="_blank">506488351</a></li>
           <li class="time">周一至周日 10:00-23:00（限Starrer或捐赠人联系）</li>
           <li class="online">
             <y-button text="在线帮助" class="button" @btnClick="open3"></y-button>
@@ -138,7 +138,7 @@
   .container {
     width: 1220px;
   }
-  
+
   .siteinfo {
     height: 100px;
     padding: 50px 0 130px;
@@ -247,7 +247,7 @@
     padding: 1px 10px 0;
     border-left: 1px solid #ccc;
   }
-  
+
   .content-c2 {
     float: left;
     height: 15px;

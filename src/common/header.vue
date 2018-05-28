@@ -5,7 +5,7 @@
         <div class="w-box">
           <div class="nav-logo">
             <h1 @click="changePage(1)">
-              <router-link to="/" title="XMall商城官网">XMall商城</router-link>
+              <router-link to="/" title="徽记食品商城">徽记食品</router-link>
             </h1>
           </div>
           <div class="right-box">
@@ -142,9 +142,9 @@
                   <router-link to="/thanks"><a @click="changePage(4)" :class="{active:choosePage===4}">捐赠名单</a></router-link>
                 </li>
                 <li>
-                  <a href="http://xmadmin.exrick.cn" target="_blank">后台管理系统</a>
+                  <a href="http://140.143.154.201:8888" target="_blank">后台管理系统</a>
                 </li>
-		            <li>
+		            <!-- <li>
                   <a href="http://xpay.exrick.cn" target="_blank">XPay支付系统</a>
                 </li>
                 <li>
@@ -154,8 +154,8 @@
                   <a href="https://www.bilibili.com/video/av23121122/" target="_blank">宣传视频</a>
                 </li>
                 <li>
-                  <a href="https://github.com/Exrick/xmall" target="_blank">Github</a>
-                </li>
+                  <a href="#" target="_blank">Github</a>
+                </li> -->
               </ul>
               <div></div>
             </div>
